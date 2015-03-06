@@ -13,6 +13,7 @@
 		C9DFB1461AAA68EA001A381C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9DFB1451AAA68EA001A381C /* Images.xcassets */; };
 		C9DFB1491AAA68EA001A381C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9DFB1471AAA68EA001A381C /* LaunchScreen.xib */; };
 		C9DFB1551AAA68EB001A381C /* PhotoFilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9DFB1541AAA68EB001A381C /* PhotoFilterTests.swift */; };
+		C9DFB15F1AAA698A001A381C /* owlpicture.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9DFB15E1AAA698A001A381C /* owlpicture.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		C9DFB14E1AAA68EB001A381C /* PhotoFilterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFilterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9DFB1531AAA68EB001A381C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C9DFB1541AAA68EB001A381C /* PhotoFilterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFilterTests.swift; sourceTree = "<group>"; };
+		C9DFB15E1AAA698A001A381C /* owlpicture.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = owlpicture.jpg; path = ../../../../Desktop/owlpicture.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		C9DFB13B1AAA68EA001A381C /* PhotoFilter */ = {
 			isa = PBXGroup;
 			children = (
+				C9DFB15E1AAA698A001A381C /* owlpicture.jpg */,
 				C9DFB13E1AAA68EA001A381C /* AppDelegate.swift */,
 				C9DFB1401AAA68EA001A381C /* ViewController.swift */,
 				C9DFB1421AAA68EA001A381C /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				C9DFB1441AAA68EA001A381C /* Main.storyboard in Resources */,
 				C9DFB1491AAA68EA001A381C /* LaunchScreen.xib in Resources */,
 				C9DFB1461AAA68EA001A381C /* Images.xcassets in Resources */,
+				C9DFB15F1AAA698A001A381C /* owlpicture.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
